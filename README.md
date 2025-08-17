@@ -26,14 +26,14 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/>
   </a>
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/matlab/matlab-icon.svg" alt="matlab" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" style="width:40px;height:40px;background-color:white;" />
   </a>
+  <!-- SPSS -->
   <a href="https://www.ibm.com/analytics/spss-statistics-software" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/ibm_spss/ibm_spss-icon.svg" alt="spss" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/IBM_SPSS_Statistics_logo.svg" alt="spss" style="width:40px;height:40px;background-color:white;" />
   </a>
+  <!-- Origin -->
   <a href="https://www.originlab.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/originlab/originlab-icon.svg" alt="origin" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/en/9/9e/OriginLab_Corp._Logo.png" alt="origin" style="width:40px;height:40px;background-color:white;" />
   </a>
 </p>
-
-
