@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Xiu Chow 16</h1>
+<h1 align="center">Hi 👋, I'm Siu Chow 16</h1>
 <h3 align="center">An aspiring data scientist</h3>
 <h3 align="center">一名数据科学爱好者</h3>
 
