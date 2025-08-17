@@ -38,5 +38,5 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloudcollection&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloudcollection&layout=compact&theme=merko" alt="Top Languages"/>
 </p>
