@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Xiu Chow16</h1>
-<h3 align="center">An aspiring data scientist一名数据科学爱好者</h3>
+<h3 align="center">An aspiring data scientist</h3>
+<h3 align="center">一名数据科学爱好者</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cloudcollection&label=Profile%20views&color=0e75b6&style=flat" alt="cloudcollection" /> </p>
 
