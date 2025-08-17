@@ -36,17 +36,6 @@
 
 <h3 align="left">📈 GitHub Stats:</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cloudcollection&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cloudcollection&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=cloudcollection&theme=tokyonight" alt="GitHub Streak"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloudcollection&layout=compact&theme=tokyonight" alt="Top Languages"/>
