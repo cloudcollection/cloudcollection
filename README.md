@@ -28,12 +28,4 @@
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" style="width:40px;height:40px;background-color:white;" />
   </a>
-  <!-- SPSS -->
-  <a href="https://www.ibm.com/analytics/spss-statistics-software" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/IBM_SPSS_Statistics_logo.svg" alt="spss" style="width:40px;height:40px;background-color:white;" />
-  </a>
-  <!-- Origin -->
-  <a href="https://www.originlab.com" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/en/9/9e/OriginLab_Corp._Logo.png" alt="origin" style="width:40px;height:40px;background-color:white;" />
-  </a>
 </p>
