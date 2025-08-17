@@ -22,6 +22,18 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   </a>
+  <a href="https://www.r-project.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/>
+  </a>
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/matlab/matlab-icon.svg" alt="matlab" width="40" height="40"/>
+  </a>
+  <a href="https://www.ibm.com/analytics/spss-statistics-software" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/ibm_spss/ibm_spss-icon.svg" alt="spss" width="40" height="40"/>
+  </a>
+  <a href="https://www.originlab.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/originlab/originlab-icon.svg" alt="origin" width="40" height="40"/>
+  </a>
 </p>
 
 
