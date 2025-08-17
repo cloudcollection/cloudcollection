@@ -1,8 +1,6 @@
 <h1 align=“center”>嗨👋，我是 Siu Chow 16</h1>
 <h3 align=“center”>一位有抱负的数据科学家</h3>
 
-<p align=“left”> <img src=“https://komarev.com/ghpvc/?username=cloudcollection&label=Profile%20views&color=0e75b6&style=flat” alt=“cloudcollection” /> </p>
-
 - 🌱 我目前正在学习 **Python、统计统计学、ML机器学习**
 
 - 📫 如何联系我 **xchou9378@gmail.com**
