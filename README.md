@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siu Chow</h1>
 <h3 align="center">A Data Science Enthusiast</h3>
-<h3 align="center">数据科学爱好者一枚</h3>
 
 - 🌱 I am currently studying **Python, Statistics, ML**  
 - 📫 Reach me at **xchou9378@gmail.com**
