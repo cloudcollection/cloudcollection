@@ -1,7 +1,7 @@
-<h1 align=“center”>嗨👋，我是 Siu Chow 16</h1>
-<h3 align=“center”>一位有抱负的数据科学家</h3>
+<h1 align=“center”>嗨👋，我是 Siu Chow </h1>
+<h3 align=“center”>数据科学爱好者一枚</h3>
 
-- 🌱 我目前正在学习 **Python、统计统计学、ML机器学习**
+- 🌱 我目前正在学习 **Python、Statistics统计学、ML机器学习**
 
 - 📫 如何联系我 **xchou9378@gmail.com**
 
