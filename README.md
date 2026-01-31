@@ -15,11 +15,13 @@ Statistics undergraduate with interests in data analysis, statistical modeling, 
 
 ## 💡 Core Skills
 
-- **Responsibility & Teamwork:** Strong sense of responsibility with effective communication and collaboration skills. Actively took core roles in multiple team competitions, focusing on efficiency, detail, and project execution.
-- **Programming & Modeling:** Proficient in Python, R, MATLAB, MySQL, and PostgreSQL for data cleaning, modeling, and visualization.
-- **Statistical Methods:** Regression analysis, clustering, factor analysis, time series forecasting, and grey prediction models.
-- **English Proficiency:** Independently wrote the data analysis sections for competition papers; CET-4 & CET-6 passed.
-- **Tools & Productivity:** Advanced Excel functions, PivotTables, Navicat, PowerPoint, XMind, EndNote, LaTeX, Markdown, and Power BI for analysis and presentation.
+- **Statistical Foundation**: Advanced Modeling (Regression, Clustering), Factor Analysis, Time Series Forecasting, and Grey Prediction.
+
+- **Computational Toolkit**: Python (Scikit-Learn, PyTorch), R (Tidyverse), MATLAB, and SQL (PostgreSQL/MySQL).
+
+- **Data Storytelling**: Professional Visualization (Power BI, Excel PivotTables), ArcGIS for spatial analysis, and Origin for scientific graphing.
+
+- **Research Execution**: Technical writing in LaTeX/Markdown, project management in team environments, and academic-grade data synthesis.
 
 ---
 
