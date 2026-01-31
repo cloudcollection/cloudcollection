@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Siu Chow</h1>
 <h3 align="center">A Data Science Enthusiast</h3>
 
-- 🌱 I am currently studying **Python, Statistics, ML**  
-- 📫 Reach me at **xchou9378@gmail.com**
+Statistics undergraduate with interests in data analysis, statistical modeling, and AI applications.
+
+🌐 Personal website: https://cloudcollection.github.io  
+✍️ Blog: https://blog.csdn.net/2401_83712180  
+📫 Email: xchou9378@gmail.com
+
 
 <br/>
 
