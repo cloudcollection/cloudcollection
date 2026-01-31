@@ -11,8 +11,6 @@ Statistics undergraduate with interests in data analysis, statistical modeling, 
 📫 <a href="mailto:xchou9378@gmail.com">Email</a>
 </p>
 
----
-
 ## 💡 Core Skills
 
 - **Responsibility & Teamwork:** Strong sense of responsibility with effective communication and collaboration skills. Actively took core roles in multiple team competitions, focusing on efficiency, detail, and project execution.
@@ -20,8 +18,6 @@ Statistics undergraduate with interests in data analysis, statistical modeling, 
 - **Statistical Methods:** Regression analysis, clustering, factor analysis, time series forecasting, and grey prediction models.
 - **English Proficiency:** Independently wrote the data analysis sections for competition papers; CET-4 & CET-6 passed.
 - **Tools & Productivity:** Advanced Excel functions, PivotTables, Navicat, PowerPoint, XMind, EndNote, LaTeX, Markdown, Origin, Power BI, and ArcGIS for analysis and presentation.
-
----
 
 ## 🗂️ Data & Database
 
@@ -34,16 +30,12 @@ Statistics undergraduate with interests in data analysis, statistical modeling, 
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_Logo.svg" width="40" height="40"/>
 </p>
 
----
-
 ## 🤖 Machine Learning & AI
 
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
 </p>
-
----
 
 ## 📊 Statistics & Scientific Computing
 
@@ -54,8 +46,6 @@ Statistics undergraduate with interests in data analysis, statistical modeling, 
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" width="40" height="40"/>
 </p>
 
----
-
 ## 📈 Visualization & Research Tools
 
 <p align="left">
@@ -63,18 +53,6 @@ Statistics undergraduate with interests in data analysis, statistical modeling, 
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/OriginLab_Logo.png" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/QGIS_logo.svg" width="40" height="40"/>
 </p>
-
----
-
-## 📌 Pinned Projects
-
-<!-- You may keep or update these based on your strongest work -->
-- **2024CUMCM_B** – CUMCM 国家级二等奖论文 (MATLAB)  
-- **2024MathorCup** – MathorCup 国家级二等奖论文 (Python)  
-- **2025HUASHU** – 华数杯国际大学生数学建模竞赛项目 (MATLAB)  
-- **CNN-LSTM** – Neural network model project (Python)
-
----
 
 > Looking forward to collaborations, internships, and research opportunities 🚀
 
