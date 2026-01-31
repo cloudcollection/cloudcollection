@@ -11,29 +11,70 @@ Statistics undergraduate with interests in data analysis, statistical modeling, 
 📫 <a href="mailto:xchou9378@gmail.com">Email</a>
 </p>
 
-<br/>
+---
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
+## 💡 Core Skills
+
+- **Responsibility & Teamwork:** Strong sense of responsibility with effective communication and collaboration skills. Actively took core roles in multiple team competitions, focusing on efficiency, detail, and project execution.
+- **Programming & Modeling:** Proficient in Python, R, MATLAB, MySQL, PostgreSQL, and SPSS for data cleaning, modeling, and visualization.
+- **Statistical Methods:** Regression analysis, clustering, factor analysis, time series forecasting, and grey prediction models.
+- **English Proficiency:** Independently wrote the data analysis sections for competition papers; CET-4 & CET-6 passed.
+- **Tools & Productivity:** Advanced Excel functions, PivotTables, Navicat, PowerPoint, XMind, EndNote, LaTeX, Markdown, Origin, Power BI, and ArcGIS for analysis and presentation.
+
+---
+
+## 🗂️ Data & Database
+
 <p align="left">
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
-  <a href="https://www.r-project.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/>
-  </a>
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40" style="background-color:white;"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_Logo.svg" width="40" height="40"/>
 </p>
+
+---
+
+## 🤖 Machine Learning & AI
+
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
+</p>
+
+---
+
+## 📊 Statistics & Scientific Computing
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40" style="background-color:white;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/SPSS_Logo.svg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" width="40" height="40"/>
+</p>
+
+---
+
+## 📈 Visualization & Research Tools
+
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/OriginLab_Logo.png" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/QGIS_logo.svg" width="40" height="40"/>
+</p>
+
+---
+
+## 📌 Pinned Projects
+
+<!-- You may keep or update these based on your strongest work -->
+- **2024CUMCM_B** – CUMCM 国家级二等奖论文 (MATLAB)  
+- **2024MathorCup** – MathorCup 国家级二等奖论文 (Python)  
+- **2025HUASHU** – 华数杯国际大学生数学建模竞赛项目 (MATLAB)  
+- **CNN-LSTM** – Neural network model project (Python)
+
+---
+
+> Looking forward to collaborations, internships, and research opportunities 🚀
+
