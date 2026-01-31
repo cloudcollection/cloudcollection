@@ -17,7 +17,7 @@ Statistics undergraduate with interests in data analysis, statistical modeling, 
 
 - **Statistical Foundation**: Advanced Modeling (Regression, Clustering), Factor Analysis, Time Series Forecasting, and Grey Prediction.
 
-- **Computational Toolkit**: Python (Scikit-Learn, PyTorch), R (Tidyverse), MATLAB, and SQL (PostgreSQL/MySQL).
+- **Computational Toolkit**: Proficient in Python (Scikit-Learn, PyTorch) and R for academic research. Skilled in database management using Navicat to bridge MySQL/PostgreSQL workflows.
 
 - **Data Storytelling**: Professional Visualization (Power BI, Excel PivotTables), ArcGIS for spatial analysis, and Origin for scientific graphing.
 
