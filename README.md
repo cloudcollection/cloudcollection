@@ -1,12 +1,15 @@
 <h1 align="center">Hi 👋, I'm Siu Chow</h1>
-<h3 align="center">A Data Science Enthusiast</h3>
+<h3 align="center">Statistics Undergraduate | Data Science & AI</h3>
 
+<p align="center">
 Statistics undergraduate with interests in data analysis, statistical modeling, and AI applications.
+</p>
 
-🌐 Personal website: https://cloudcollection.github.io  
-✍️ Blog: https://blog.csdn.net/2401_83712180  
-📫 Email: xchou9378@gmail.com
-
+<p align="center">
+🌐 <a href="https://cloudcollection.github.io">Personal Website</a> ·
+✍️ <a href="https://blog.csdn.net/2401_83712180">Blog</a> ·
+📫 <a href="mailto:xchou9378@gmail.com">Email</a>
+</p>
 
 <br/>
 
@@ -34,4 +37,3 @@ Statistics undergraduate with interests in data analysis, statistical modeling, 
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40" style="background-color:white;"/>
   </a>
 </p>
-
