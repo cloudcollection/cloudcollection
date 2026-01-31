@@ -2,60 +2,63 @@
 <h3 align="center">Statistics Undergraduate | Data Science & AI</h3>
 
 <p align="center">
-  Statistics undergraduate with interests in data analysis, statistical modeling, and AI applications.
+Statistics undergraduate with interests in data analysis, statistical modeling, and AI applications.
 </p>
 
 <p align="center">
-  <a href="https://cloudcollection.github.io">🌐 个人主页</a> ·
-  <a href="https://blog.csdn.net/2401_83712180">✍️ 博客</a> ·
-  <a href="mailto:xchou9378@gmail.com">📫 邮件联系</a>
+🌐 <a href="https://cloudcollection.github.io">Personal Website</a> ·
+✍️ <a href="https://blog.csdn.net/2401_83712180">Blog</a> ·
+📫 <a href="mailto:xchou9378@gmail.com">Email</a>
 </p>
 
 ---
 
-## 💡 核心技能 | Core Skills
+## 💡 Core Skills
 
-- **责任感与团队协作：** 具备强烈的责任心、有效的沟通与协作能力。在多次建模比赛中担任核心角色，专注于效率、细节与项目落地。
-- **编程与建模：** 精通 Python, R, MATLAB, MySQL, PostgreSQL 以及 SPSS，用于数据清洗、建模及可视化。
-- **统计方法：** 熟练掌握回归分析、聚类分析、因子分析、时间序列预测及灰色预测模型。
-- **英语能力：** 能够独立撰写竞赛论文的数据分析章节；已通过 CET-4 & CET-6。
-- **效率工具：** 熟练使用 Excel (高级函数/透视表), Power BI, ArcGIS, LaTeX, Markdown, Origin, 以及 XMind。
-
----
-
-## 🛠️ 技术栈 | Tech Stack
-
-### 📊 数据科学与数据库
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
-</p>
-
-### 🤖 机器学习与人工智能
-<p align="left">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-</p>
-
-### 📈 科学计算与科研工具
-<p align="left">
-  <img src="https://img.shields.io/badge/MATLAB-ED1C24?style=for-the-badge&logo=mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/SPSS-0062FF?style=for-the-badge&logo=ibm&logoColor=white" />
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
-  <img src="https://img.shields.io/badge/ArcGIS-007AC2?style=for-the-badge&logo=arcgis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
-</p>
+- **Responsibility & Teamwork:** Strong sense of responsibility with effective communication and collaboration skills. Actively took core roles in multiple team competitions, focusing on efficiency, detail, and project execution.
+- **Programming & Modeling:** Proficient in Python, R, MATLAB, MySQL, PostgreSQL, and SPSS for data cleaning, modeling, and visualization.
+- **Statistical Methods:** Regression analysis, clustering, factor analysis, time series forecasting, and grey prediction models.
+- **English Proficiency:** Independently wrote the data analysis sections for competition papers; CET-4 & CET-6 passed.
+- **Tools & Productivity:** Advanced Excel functions, PivotTables, Navicat, PowerPoint, XMind, EndNote, LaTeX, Markdown, Origin, Power BI, and ArcGIS for analysis and presentation.
 
 ---
 
-## 📊 GitHub 统计
+## 🗂️ Data & Database
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=cloudcollection&show_icons=true&theme=radiant&hiding_rank=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloudcollection&layout=compact&theme=radiant" height="150" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="45" height="45" alt="R" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="45" height="45" alt="PostgreSQL" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftexcel.svg" width="40" height="40" alt="Excel" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/powerbi.svg" width="40" height="40" alt="PowerBI" />
 </p>
 
-> 期待与您的合作、实习或研究机会 🚀
+## 🤖 Machine Learning & AI
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" height="45" alt="PyTorch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" height="45" alt="TensorFlow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy" />
+</p>
+
+## 📊 Statistics & Scientific Computing
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="45" height="45" alt="MATLAB" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ibm.svg" width="40" height="40" alt="SPSS/IBM" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="45" height="45" alt="LaTeX" />
+</p>
+
+## 📈 Visualization & Research Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="45" height="45" alt="Markdown" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/qgis.svg" width="40" height="40" alt="QGIS" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/git/git-original.svg" width="45" height="45" alt="Git" />
+</p>
+
+---
+
+> Looking forward to collaborations, internships, and research opportunities 🚀
