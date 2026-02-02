@@ -67,7 +67,6 @@ A statistics undergraduate with solid mathematical foundations and hands-on expe
 ## 📊 Projects & Research Experience
 *(Applied Statistics · Statistical Modeling · Decision Analysis)*
 
----
 
 ### 🌍 Sustainable Tourism Capacity Assessment and Policy Optimization  
 **MCM/ICM 2025**
@@ -89,7 +88,6 @@ Tools: MATLAB
 - Environmental governance indicators exhibit the highest sensitivity
 - The framework demonstrates transferability (validated with a Macau case study)
 
----
 
 ### 📈 Industrial Investment Structure and Sustainable Development in China  
 **HUASHU 2025**
@@ -111,7 +109,6 @@ Tools: Python, MATLAB
 - New energy and high-technology sectors show superior overall performance
 - Results remain stable under moderate parameter perturbations
 
----
 
 ### 📦 Demand Forecasting and Warehouse Allocation for E-commerce  
 **MathorCup 2025**
@@ -134,7 +131,6 @@ Tools: Python
 - Forecasts provide reliable inputs for downstream allocation planning
 - Proposed allocation strategies demonstrate strong practical feasibility
 
----
 
 ### 🏭 Sampling Inspection and Multi-stage Decision Optimization  
 **National Mathematical Modeling Competition 2025**
