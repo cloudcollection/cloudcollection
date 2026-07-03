@@ -1,4 +1,3 @@
-[github_profile_readme_optimized.md](https://github.com/user-attachments/files/29619987/github_profile_readme_optimized.md)
 <h1 align="center">Ziyi ZHOU</h1>
 
 <p align="center">
