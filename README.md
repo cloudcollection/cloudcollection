@@ -1,3 +1,17 @@
+<h1 align="center">Ziyi ZHOU</h1>
+
+<p align="center">
+  B.Sc. Statistics, Guangzhou University<br>
+  Applied statistics | Time-series forecasting | Financial risk modeling | Survey analytics
+</p>
+
+<p align="center">
+  <a href="https://cloudcollection.github.io/">Academic Portfolio</a> |
+  <a href="https://cloudcollection.github.io/documents/ziyi-zhou-cv.pdf">CV</a> |
+  <a href="https://blog.csdn.net/2401_83712180">CSDN Notes</a> |
+  <a href="mailto:XiaoZhou_013@outlook.com">Email</a>
+</p>
+
 I am a statistics undergraduate working on applied statistical modeling and data-driven decision analysis. My current portfolio centers on forecasting, risk measurement, survey-based inference, and reproducible analytical workflows.
 My academic line is to connect statistical methods with interpretable evidence: model diagnostics, robustness checks, backtesting, and clear reporting matter as much as model fitting itself.
 Research Focus
