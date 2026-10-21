@@ -31,7 +31,7 @@
 
 ---
 
-I am a statistics undergraduate working on applied statistical modeling and data-driven decision analysis. My current portfolio centers on forecasting, risk measurement, survey-based inference, and reproducible analytical workflows.
+I hold a B.Sc. in Statistics from Guangzhou University, with interests in applied statistical modeling, forecasting, and data-driven decision analysis.
 
 ## Research Focus
 
@@ -54,25 +54,19 @@ I am a statistics undergraduate working on applied statistical modeling and data
 ### Financial Risk Forecasting and VaR Modeling
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Quantile%20Regression-2f5597?style=flat-square" alt="Quantile Regression">
   <img src="https://img.shields.io/badge/GARCH-5b6f95?style=flat-square" alt="GARCH">
-  <img src="https://img.shields.io/badge/VaR%20Backtesting-6b5f7a?style=flat-square" alt="VaR Backtesting">
 </p>
 
 ### Sustainable Tourism Capacity Assessment
 <p>
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square" alt="MATLAB">
-  <img src="https://img.shields.io/badge/TOPSIS-806443?style=flat-square" alt="TOPSIS">
-  <img src="https://img.shields.io/badge/Entropy%20Weighting-4f7d5d?style=flat-square" alt="Entropy Weighting">
   <img src="https://img.shields.io/badge/Sensitivity%20Analysis-526f64?style=flat-square" alt="Sensitivity Analysis">
 </p>
 
 ### Demand Forecasting and Warehouse Allocation
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/SARIMA-496a81?style=flat-square" alt="SARIMA">
   <img src="https://img.shields.io/badge/Random%20Forest-4f7d5d?style=flat-square" alt="Random Forest">
-  <img src="https://img.shields.io/badge/GM(1%2C1)-806443?style=flat-square" alt="GM(1,1)">
 </p>
 
 ### Survey Analytics for Cultural IP Promotion
@@ -80,8 +74,6 @@ I am a statistics undergraduate working on applied statistical modeling and data
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R">
   <img src="https://img.shields.io/badge/SPSS-526f64?style=flat-square" alt="SPSS">
-  <img src="https://img.shields.io/badge/Clustering-4f7d5d?style=flat-square" alt="Clustering">
-  <img src="https://img.shields.io/badge/Factor%20Analysis-6b5f7a?style=flat-square" alt="Factor Analysis">
 </p>
 
 ## Technical Stack
@@ -105,4 +97,3 @@ I am a statistics undergraduate working on applied statistical modeling and data
 
 I also write and translate technical materials on statistics, data science, and AI topics, including Transformer visualization, AI agents, multi-armed bandits, and AI for time-series data.
 
-For a fuller record of projects, experience, and downloadable materials, please visit my [academic portfolio](https://cloudcollection.github.io/).
