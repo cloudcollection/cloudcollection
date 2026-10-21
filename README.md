@@ -76,24 +76,3 @@ I hold a B.Sc. in Statistics from Guangzhou University, with interests in applie
   <img src="https://img.shields.io/badge/SPSS-526f64?style=flat-square" alt="SPSS">
 </p>
 
-## Technical Stack
-
-<table>
-  <tr>
-    <td><strong>Programming</strong></td>
-    <td>Python, R, SQL, MATLAB, Jupyter, Git</td>
-  </tr>
-  <tr>
-    <td><strong>Data and visualization</strong></td>
-    <td>Pandas, NumPy, scikit-learn, Power BI, Origin, SPSS</td>
-  </tr>
-  <tr>
-    <td><strong>Research workflow</strong></td>
-    <td>Markdown, LaTeX, EndNote, technical translation</td>
-  </tr>
-</table>
-
-## Writing and Materials
-
-I also write and translate technical materials on statistics, data science, and AI topics, including Transformer visualization, AI agents, multi-armed bandits, and AI for time-series data.
-
