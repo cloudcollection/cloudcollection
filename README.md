@@ -46,11 +46,11 @@ My academic line is to connect statistical methods with interpretable evidence: 
   <img src="https://img.shields.io/badge/GIS-GeoJSON%20%7C%20Source%20Verification-526f64?style=flat-square" alt="GIS and GeoJSON">
 </p>
 
-- **Time-series forecasting:** SARIMA/SARIMAX, HAR-style features, volatility modeling, forecast comparison.
-- **Financial risk modeling:** VaR estimation, quantile regression, GARCH-family models, backtesting and diagnostic evaluation.
-- **Survey and social data analysis:** clustering, factor analysis, logistic regression, audience segmentation.
-- **Decision analytics:** TOPSIS, entropy and CRITIC weighting, sensitivity analysis, multi-objective optimization.
-- **Geospatial and data validation:** GIS workflows, GeoJSON processing, source verification, reproducible data packaging.
+- **Time-series forecasting**
+- **Financial risk modeling** 
+- **Survey and social data analysis** 
+- **Decision analytics**
+- **Geospatial and data validation** 
 
 ## Selected Work
 
