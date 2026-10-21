@@ -22,6 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="36" height="36" alt="Markdown">
 </p>
 ---
+
 I hold a B.Sc. in Statistics from Guangzhou University, with interests in applied statistical modeling, forecasting, and data-driven decision analysis.
 
 ## Research Focus
