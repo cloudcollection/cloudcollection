@@ -35,14 +35,6 @@ I hold a B.Sc. in Statistics from Guangzhou University, with interests in applie
 
 ## Research Focus
 
-<p>
-  <img src="https://img.shields.io/badge/Time%20Series-SARIMA%20%7C%20Volatility%20%7C%20Forecasting-496a81?style=flat-square" alt="Time Series">
-  <img src="https://img.shields.io/badge/Risk%20Modeling-VaR%20%7C%20Quantile%20Regression%20%7C%20Backtesting-6b5f7a?style=flat-square" alt="Risk Modeling">
-  <img src="https://img.shields.io/badge/Survey%20Analytics-Clustering%20%7C%20Factor%20Analysis%20%7C%20Logit-4f7d5d?style=flat-square" alt="Survey Analytics">
-  <img src="https://img.shields.io/badge/Decision%20Analytics-TOPSIS%20%7C%20Entropy%20%7C%20CRITIC-806443?style=flat-square" alt="Decision Analytics">
-  <img src="https://img.shields.io/badge/GIS-GeoJSON%20%7C%20Source%20Verification-526f64?style=flat-square" alt="GIS and GeoJSON">
-</p>
-
 - **Time-series forecasting**
 - **Financial risk modeling** 
 - **Survey and social data analysis** 
