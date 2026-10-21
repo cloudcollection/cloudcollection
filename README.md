@@ -1,5 +1,4 @@
 <h1 align="center">Ziyi ZHOU</h1>
-
 <p align="center">
   B.Sc. Statistics, GZHU<br>
   RA, HKUST(GZ)<br>
@@ -22,40 +21,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="36" height="36" alt="LaTeX">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="36" height="36" alt="Markdown">
 </p>
-
 ---
-
 I hold a B.Sc. in Statistics from Guangzhou University, with interests in applied statistical modeling, forecasting, and data-driven decision analysis.
 
 ## Research Focus
 
 - **Time-series forecasting**
-- **Survey and social data analysis** 
-- **Geospatial and data validation** 
+- **LLMs and social data analysis** 
+- **Geo Big Data and GeoAI** 
 
 ## Selected Work
 
-**Financial Risk Forecasting and VaR Modeling** 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-</p>
+- **Financial Risk Forecasting and VaR Modeling** 
+- **Sustainable Tourism Capacity Assessment** 
+- **Demand Forecasting and Warehouse Allocation**
+- **Survey Analytics for Cultural IP Promotion**
 
-**Sustainable Tourism Capacity Assessment** 
-<p>
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square" alt="MATLAB">
-  <img src="https://img.shields.io/badge/Sensitivity%20Analysis-526f64?style=flat-square" alt="Sensitivity Analysis">
-</p>
-
-**Demand Forecasting and Warehouse Allocation**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Random%20Forest-4f7d5d?style=flat-square" alt="Random Forest">
-</p>
-
-**Survey Analytics for Cultural IP Promotion**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R">
-  <img src="https://img.shields.io/badge/SPSS-526f64?style=flat-square" alt="SPSS">
-</p>
 
