@@ -33,8 +33,6 @@
 
 I am a statistics undergraduate working on applied statistical modeling and data-driven decision analysis. My current portfolio centers on forecasting, risk measurement, survey-based inference, and reproducible analytical workflows.
 
-My academic line is to connect statistical methods with interpretable evidence: model diagnostics, robustness checks, backtesting, and clear reporting matter as much as model fitting itself.
-
 ## Research Focus
 
 <p>
@@ -90,29 +88,18 @@ My academic line is to connect statistical methods with interpretable evidence: 
 
 <table>
   <tr>
-    <td><strong>Statistics and modeling</strong></td>
-    <td>Regression, time series, ADF and Granger tests, factor analysis, clustering, hypothesis testing, VaR backtesting</td>
-  </tr>
-  <tr>
     <td><strong>Programming</strong></td>
     <td>Python, R, SQL, MATLAB, Jupyter, Git</td>
   </tr>
   <tr>
     <td><strong>Data and visualization</strong></td>
-    <td>Pandas, NumPy, scikit-learn, Power BI, Excel PivotTables, Origin, SPSS</td>
+    <td>Pandas, NumPy, scikit-learn, Power BI, Origin, SPSS</td>
   </tr>
   <tr>
     <td><strong>Research workflow</strong></td>
-    <td>Markdown, LaTeX, EndNote, reproducible reports, technical translation</td>
+    <td>Markdown, LaTeX, EndNote, technical translation</td>
   </tr>
 </table>
-
-## Academic Profile
-
-- B.Sc. in Statistics, School of Economics and Statistics, Guangzhou University.
-- GPA: 3.64 / 4.0; ranking: Top 10%.
-- Core coursework: mathematical analysis, advanced algebra, probability and statistics, regression analysis, time-series analysis, statistical computing, data mining.
-- Selected recognition: MCM/ICM Honorable Mention; National First Prize in Market Survey and Analysis Competition; provincial awards in mathematical and statistical modeling.
 
 ## Writing and Materials
 
