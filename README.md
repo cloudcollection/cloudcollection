@@ -2,7 +2,6 @@
 
 <p align="center">
   B.Sc. Statistics, Guangzhou University<br>
-  Applied statistics | Time-series forecasting | Financial risk modeling | Survey analytics
 </p>
 
 <p align="center">
@@ -55,9 +54,6 @@ My academic line is to connect statistical methods with interpretable evidence: 
 ## Selected Work
 
 ### Financial Risk Forecasting and VaR Modeling
-
-Built an empirical workflow for volatility and risk measurement using statistical and machine-learning methods. The project emphasizes feature design, quantile-based prediction, and backtesting rather than black-box accuracy alone.
-
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Quantile%20Regression-2f5597?style=flat-square" alt="Quantile Regression">
@@ -66,9 +62,6 @@ Built an empirical workflow for volatility and risk measurement using statistica
 </p>
 
 ### Sustainable Tourism Capacity Assessment
-
-Designed a multi-indicator framework to evaluate tourism sustainability and policy trade-offs, with a case study for tourism-pressure assessment.
-
 <p>
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square" alt="MATLAB">
   <img src="https://img.shields.io/badge/TOPSIS-806443?style=flat-square" alt="TOPSIS">
@@ -77,9 +70,6 @@ Designed a multi-indicator framework to evaluate tourism sustainability and poli
 </p>
 
 ### Demand Forecasting and Warehouse Allocation
-
-Compared forecasting models for demand volatility and used forecast outputs to support warehouse allocation and capacity planning.
-
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/SARIMA-496a81?style=flat-square" alt="SARIMA">
@@ -88,9 +78,6 @@ Compared forecasting models for demand volatility and used forecast outputs to s
 </p>
 
 ### Survey Analytics for Cultural IP Promotion
-
-Cleaned and analyzed 800+ survey responses for cultural-audience research, supporting segmentation and engagement analysis.
-
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R">
