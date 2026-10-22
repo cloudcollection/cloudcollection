@@ -8,7 +8,6 @@
 
 <p align="center">
   <a href="https://cloudcollection.github.io/">Homepage</a> ·
-  <a href="https://cloudcollection.github.io/documents/ziyi-zhou-cv.pdf">CV</a> ·
   <a href="https://blog.csdn.net/2401_83712180">Blog</a> ·
   <a href="mailto:XiaoZhou_013@outlook.com">Email</a>
 </p>
